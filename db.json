@@ -3,15 +3,7 @@
   "message": "Data found",
   "count": 2,
   "data": [
-    {
-      "id": 1,
-      "first_name": "Jhon",
-      "last_name": "Kuk"
-    },
-    {
-      "id": 2,
-      "first_name": "Mira",
-      "last_name": "Sandi"
-    }
+    { "id": 1, "first_name": "Jhon", "last_name": "Kuk" },
+    { "id": 2, "first_name": "Mira", "last_name": "Sandi" }
   ]
 }
